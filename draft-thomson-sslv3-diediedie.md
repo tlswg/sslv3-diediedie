@@ -127,7 +127,7 @@ The predecessor of SSLv3, SSL version 2, is no longer considered secure
 SSLv3 MUST NOT be used {{RFC2119}}.  Negotiation of SSLv3 from any version of TLS
 MUST NOT be permitted.
 
-Any version of TLS is more secure then SSLv3, though the highest version
+Any version of TLS is more secure than SSLv3, though the highest version
 available is preferable.
 
 Pragmatically, clients MUST NOT send a ClientHello with
