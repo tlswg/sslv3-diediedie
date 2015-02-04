@@ -190,8 +190,8 @@ recent TLS versions.  This includes the features that are enabled by ClientHello
 extensions, which SSLv3 does not support.
 
 Though SSLv3 can benefit from new cipher suites, it cannot benefit from new
-cryptographic modes and other features.  Of these, the following are
-particularly prominent:
+cryptographic modes and features.  Of these, the following are particularly
+prominent:
 
 * Authenticated Encryption with Additional Data (AEAD) modes are added in
   {{RFC5246}}.
