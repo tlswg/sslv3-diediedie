@@ -213,5 +213,5 @@ This document has no IANA actions.
 
 # Security Considerations
 
-This entire document aims to improve security by identifying a protocol that is
-not secure.
+This entire document aims to improve security by prohibiting the use of a
+protocol that is not secure.
