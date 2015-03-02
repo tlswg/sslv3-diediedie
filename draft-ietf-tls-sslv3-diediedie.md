@@ -2,7 +2,7 @@
 title: Deprecating Secure Sockets Layer Version 3.0
 abbrev: SSLv3 is not Secure
 docname: draft-ietf-tls-sslv3-diediedie-latest
-date: 2014
+date: 2015
 category: std
 ipr: trust200902
 updates: 5246
