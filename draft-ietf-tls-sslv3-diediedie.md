@@ -100,8 +100,8 @@ informative:
 
 --- abstract
 
-Secure Sockets Layer version 3.0 (SSLv3) {{RFC6101}} is no longer secure.  This
-document requires that SSLv3 not be used.  The replacement versions, in
+Secure Sockets Layer version 3.0 (SSLv3) {{RFC6101}} is not sufficiently secure.
+This document requires that SSLv3 not be used.  The replacement versions, in
 particular Transport Layer Security (TLS) 1.2 {{RFC5246}}, are considerably more
 secure and capable protocols.
 
@@ -119,8 +119,8 @@ subsequently TLS 1.1 in 2002 {{RFC4346}} and 1.2 in 2006 {{RFC5246}},
 availability of these replacement versions has not been universal.  As a result,
 many implementations of TLS have permitted the negotiation of SSLv3.
 
-The predecessor of SSLv3, SSL version 2, is no longer considered secure
-{{RFC6176}}.  SSLv3 now follows.
+The predecessor of SSLv3, SSL version 2, is no longer considered sufficiently
+secure {{RFC6176}}.  SSLv3 now follows.
 
 
 # Terminology
