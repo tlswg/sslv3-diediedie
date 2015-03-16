@@ -35,7 +35,7 @@ author:
 
 normative:
   RFC6101:
-  I-D.ietf-tls-prohibiting-rc4:
+  RFC7465:
   RFC2119:
   RFC2246:
   RFC4346:
@@ -160,7 +160,7 @@ same way.
 The flaws in the CBC modes in SSLv3 are mirrored by the weakness of the stream
 ciphers it defines.  Of those defined, only RC4 is currently in widespread use.
 RC4, however, exhibits serious biases and is also no longer fit for use
-{{I-D.ietf-tls-prohibiting-rc4}}.
+{{RFC7465}}.
 
 This leaves SSLv3 with no suitable record protection mechanism.
 
