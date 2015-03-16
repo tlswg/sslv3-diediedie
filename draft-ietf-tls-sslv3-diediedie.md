@@ -105,8 +105,8 @@ document requires that SSLv3 not be used.  The replacement versions, in
 particular Transport Layer Security (TLS) 1.2 {{RFC5246}}, are considerably more
 secure and capable protocols.
 
-This document updates the backward compatibility sections of the TLS RFCs to
-prohibit fallback to SSLv3.
+This document updates the backward compatibility section of RFC 5246 and its
+predecessors to prohibit fallback to SSLv3.
 
 --- middle
 
