@@ -48,6 +48,7 @@ informative:
   RFC3174:
   RFC4492:
   RFC5077:
+  RFC6066:
   RFC6176:
   RFC6347:
   RFC7301:
@@ -211,7 +212,8 @@ prominent:
 
 * A datagram mode of operation, DTLS {{RFC6347}}.
 
-* Application layer protocol negotiation {{RFC7301}}.
+* Server name indication {{RFC6066}} and other extensions, such as application
+  layer protocol negotiation {{RFC7301}}.
 
 
 # IANA Considerations
