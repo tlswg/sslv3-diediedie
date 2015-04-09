@@ -35,11 +35,9 @@ author:
 
 normative:
   RFC6101:
-  RFC7465:
   RFC2119:
   RFC2246:
   RFC4346:
-  RFC4492:
   RFC5246:
   RFC6101:
   RFC7366:
@@ -47,10 +45,12 @@ normative:
 informative:
   RFC1321:
   RFC3174:
+  RFC4492:
   RFC5077:
   RFC6176:
   RFC6347:
   RFC7301:
+  RFC7465:
   FIPS180-2:
     title: NIST FIPS 180-2, Secure Hash Standard
     author:
