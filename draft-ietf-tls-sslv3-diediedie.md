@@ -153,7 +153,7 @@ guidance is still applicable; therefore, TLS servers MUST accept any value
 but they MUST NOT negotiate SSLv3.
 
 
-# A Litany of Attacks
+# SSLv3 is Comprehensively Broken
 
 ## Record Layer
 
