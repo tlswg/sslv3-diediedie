@@ -1,6 +1,6 @@
 # SSLv3 is Not Secure
 
-* This draft has been published as [RFC 7568](https://tools.ietf.org/html/rfc7568)
+This draft has been published as [RFC 7568](https://tools.ietf.org/html/rfc7568)
 
 
 ## Contributing
