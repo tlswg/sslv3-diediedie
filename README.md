@@ -1,8 +1,6 @@
 # SSLv3 is Not Secure
 
-* [Editor's copy](https://unicorn-wg.github.io/sslv3-diediedie/)
-* [Working group draft](https://tools.ietf.org/html/draft-ietf-tls-sslv3-diediedie)
-  ([tracker](https://datatracker.ietf.org/doc/draft-ietf-tls-sslv3-diediedie/))
+* This draft has been published as [RFC 7568](https://tools.ietf.org/html/rfc7568)
 
 
 ## Contributing
